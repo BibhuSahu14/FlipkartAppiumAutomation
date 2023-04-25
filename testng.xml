@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Demo Web App test suite" >
+	<listeners>
+		<listener class-name="utils.ListenersImplementation" />
+	</listeners>
+	<test name="FlipkartTest">
+		<parameter name="automationName" value="Appium" />
+		<parameter name="platformName" value="Android" />
+		<parameter name="platformVersion" value="10.0" />
+		<parameter name="deviceName" value="Android Emulator" />
+		<classes>
+			<class name="practice.ToastMessage" />
+		</classes>
+	</test> 
+</suite> 
