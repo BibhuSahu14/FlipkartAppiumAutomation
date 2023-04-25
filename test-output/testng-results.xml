@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-23T17:37:37 IST" name="Demo Web App test suite" finished-at="2023-04-23T17:38:23 IST" duration-ms="45907">
+  <suite started-at="2023-04-25T15:02:45 IST" name="Demo Web App test suite" finished-at="2023-04-25T15:03:52 IST" duration-ms="66657">
     <groups>
     </groups>
-    <test started-at="2023-04-23T17:37:37 IST" name="FlipkartTest" finished-at="2023-04-23T17:38:23 IST" duration-ms="45907">
+    <test started-at="2023-04-25T15:02:45 IST" name="FlipkartTest" finished-at="2023-04-25T15:03:52 IST" duration-ms="66657">
       <class name="practice.ToastMessage">
-        <test-method is-config="true" signature="startServer()[pri:0, instance:practice.ToastMessage@74ea2410]" started-at="2023-04-23T17:37:32 IST" name="startServer" finished-at="2023-04-23T17:37:37 IST" duration-ms="4769" status="PASS">
+        <test-method is-config="true" signature="startServer()[pri:0, instance:practice.ToastMessage@52719fb6]" started-at="2023-04-25T15:01:50 IST" name="startServer" finished-at="2023-04-25T15:02:45 IST" duration-ms="54808" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startServer -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:practice.ToastMessage@74ea2410]" started-at="2023-04-23T17:37:37 IST" name="beforeTest" finished-at="2023-04-23T17:37:51 IST" duration-ms="13698" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:practice.ToastMessage@52719fb6]" started-at="2023-04-25T15:02:45 IST" name="beforeTest" finished-at="2023-04-25T15:03:21 IST" duration-ms="35772" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="test()[pri:0, instance:practice.ToastMessage@74ea2410]" started-at="2023-04-23T17:37:51 IST" name="test" description="Toast Message" finished-at="2023-04-23T17:38:22 IST" duration-ms="31356" status="PASS">
+        <test-method signature="test()[pri:0, instance:practice.ToastMessage@52719fb6]" started-at="2023-04-25T15:03:21 IST" name="test" description="Toast Message" finished-at="2023-04-25T15:03:51 IST" duration-ms="29499" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:practice.ToastMessage@74ea2410]" started-at="2023-04-23T17:38:22 IST" name="afterTest" finished-at="2023-04-23T17:38:23 IST" duration-ms="510" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:practice.ToastMessage@52719fb6]" started-at="2023-04-25T15:03:51 IST" name="afterTest" finished-at="2023-04-25T15:03:52 IST" duration-ms="892" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:practice.ToastMessage@74ea2410]" started-at="2023-04-23T17:38:24 IST" name="afterSuite" finished-at="2023-04-23T17:38:24 IST" duration-ms="59" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:practice.ToastMessage@52719fb6]" started-at="2023-04-25T15:03:53 IST" name="afterSuite" finished-at="2023-04-25T15:03:53 IST" duration-ms="71" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
