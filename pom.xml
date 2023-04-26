@@ -96,7 +96,6 @@
 						<suiteXmlFiles>
 							<suiteXmlFile>${project.basedir}/testng.xml</suiteXmlFile>
 						</suiteXmlFiles>
-						<reportsDirectory>${project.basedir}/test-output</reportsDirectory>
 					</configuration>
 				</plugin>
         <plugin>
