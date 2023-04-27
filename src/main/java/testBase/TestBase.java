@@ -89,6 +89,8 @@ public class TestBase
 		catch(Throwable e)
 		{
 			Log4j.error("Failed to start Appium server");
+			e.printStackTrace();
+			
 		}
 	}
 //	public AppiumDriverLocalService getAppiumServerDefault() {
